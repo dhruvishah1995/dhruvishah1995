@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhruvishah1995
-- 👀 I’m interested in being Full Stack developer
-- 🌱 I’m currently learning Reactjs and willing to learn something other than software developement. 
-- 💞️ I’m looking to collaborate on anything that is brainstorming and knowledgeable
+- 👀 I’m a Full Stack developer.
+- 🌱 I am most Proficient in Reactjs. 
+- 💞️ I’m looking to collaborate on anything that is brainstorming and knowledgeable and always up for challenge.
 - 📫 I am reachable at dnshah1995@gmail.com
 
 <!---
