@@ -1,42 +1,69 @@
-I’m Dhruvi Shah- **Full Stack Software Developer | React | Express.js | Java | Spring Boot**
+# 👨‍💻 Full Stack Developer | 6+ Years of Experience
 
-With over 6 years of experience in the software development industry, I specialize in creating scalable, user-centric applications that consistently improve code quality and project efficiency. My expertise spans a variety of programming languages and frameworks, with a strong proficiency in React, Express.js, Java, and Spring Boot.
+Welcome to my GitHub profile! I’m a passionate Full Stack Developer with over six years of experience in building scalable applications, crafting user-centric designs, and optimizing project efficiency. This README highlights my skills, experience, and the technologies I love working with.
 
-**Key Achievements:**
+---
 
-Data Testing Utility Application: Engineered a solution at Concertia Technologies that reduced data validation time by 60% and increased testing efficiency by 50%.
-Micro Front-ends & Web Components: Improved application load times by 30% and enhanced cross-browser compatibility.
-Scalable UI Frameworks: Boosted user engagement by 25% through the development of intuitive design systems.
-Optimized Deployment: Achieved a 60% reduction in deployment times by Dockerizing the entire stack.
+## 🚀 About Me
 
-**Technical Skills:**
-Front-End: ReactJS, Redux, Angular, HTML, CSS, JSX, JSON, jQuery, Bootstrap, LitHTML.
-Back-End: Node.js, Express.js, Spring Boot, ASP.NET MVC.
-Programming Languages: Java, C, C++, C#, JavaScript, TypeScript.
-Databases: MySQL, Oracle, MongoDB, PostgreSQL.
-Tools & Technologies: Docker, Heroku, Postman, Trello, Slack, JIRA, Confluence, Git, SVN, GitLab CLI.
+I specialize in:
+- Building **scalable full-stack applications** using modern frameworks.
+- Developing **responsive and user-friendly UIs** with ReactJS, Redux, and Angular.
+- Creating **secure and efficient REST APIs** using Node.js, Express.js, and Spring Boot.
+- Implementing **CI/CD pipelines** and deploying solutions in **cloud environments** like Heroku and Docker.
 
-**Professional Experience:**
-Senior Software Engineer at Concertia Technologies: 
-Led cross-functional teams to deliver high-quality projects, optimized application deployment, and developed scalable UI frameworks.
+---
 
-Developer at Mobia Technology Innovations:
-Enhanced user experience and accessibility for a healthcare application, ensuring compliance with healthcare standards such as HIPAA.
+## 🛠️ Skills & Technologies
 
-Software Engineer at Concertia Technologies: Self-taught React and Redux, optimized codebase performance, and implemented localization for multi-language support.
+### **Languages**
+- Java, JavaScript, TypeScript, C, C++, C#
 
-Associate Software Engineer at Tatvasoft: Designed responsive web app UIs and improved UX for web apps in the ASP.NET MVC framework.
+### **Frontend Development**
+- ReactJS, Redux, Angular, LitHTML, HTML, CSS, Bootstrap, jQuery,Next.js
 
-**Beyond Work:**
-I am deeply involved in social initiatives and community welfare, including charity events and blood donation drives. I am a passionate advocate for environmental sustainability and enjoy nurturing my collection of over 25 plants.
+### **Backend Development**
+- Node.js, Express.js, Spring Boot, ASP.NET MVC
 
+### **Database Management**
+- PostgreSQL, MongoDB, MySQL
 
+### **Development Tools**
+- Visual Studio, Visual Studio Code, Figma, Postman, JIRA, Trello, Git, Docker, Heroku
 
-📊 In the realm of databases, I am well-versed in SQL and noSQL Databases. My passion for technology and problem-solving drive my pursuit of excellence in every project I undertake. 
+### **Specialties**
+- CI/CD pipelines
+- Micro-frontends and Web Components
+- Responsive UI design
+- Secure REST APIs
+- Cross-browser compatibility
+- Agile Development (Scrum)
 
-Let’s connect and explore how we can collaborate on innovative solutions in the world of software development!. I am reachable at dnshah1995@gmail.com
+---
 
-<!---
-dhruvishah1995/dhruvishah1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 Career Highlights
+
+### Senior Software Engineer | **Concertia Technologies**
+- Engineered a **data testing utility application** reducing validation time by 60%.
+- Developed **micro front-ends and web components**, improving load time by 30%.
+- Designed scalable UI frameworks, boosting engagement by 25%.
+- Dockerized applications for effortless deployment, reducing deployment time by 60%.
+
+### Developer | **Mobia Technology Innovations**
+- Designed a responsive healthcare app UI using **LitHTML**.
+- Developed secure REST APIs adhering to **HIPAA standards**.
+- Optimized **MongoDB** data solutions for scalability and performance.
+- Mentored interns, fostering growth in software development.
+
+### Software Engineer | **Concertia Technologies**
+- Self-taught **React and Redux** to enhance front-end capabilities.
+- Delivered **responsive UI applications** with multi-platform support.
+- Implemented localization to support multiple languages in applications.
+
+## 📨 Let's Connect
+
+- **Email**: dnshah1995@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/dhruvishah95/
+
+Feel free to explore my repositories, fork projects, or contribute to exciting ideas. Let’s build something amazing together! 🚀
+I am seeking a job opportunity that challenges my limits to help me grow professionally and personally.
