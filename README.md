@@ -62,7 +62,7 @@ I specialize in:
 
 ## 📨 Let's Connect
 
-- **Email**: dnshah1995@gmail.com
+- **Email**: dhruvi.shah.it@outlook.com
 - **LinkedIn**: https://www.linkedin.com/in/dhruvishah95/
 
 Feel free to explore my repositories, fork projects, or contribute to exciting ideas. Let’s build something amazing together! 🚀
